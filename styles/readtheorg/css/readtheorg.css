@@ -1,8 +1,7 @@
-@import url("https://fonts.googleapis.com/css?family=Lato:400,700,400italic,700italic|Roboto+Slab:400,700|Inconsolata:400,700");
-@import url("https://maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css");
+@import url("https://cdn.rawgit.com/dreampulse/computer-modern-web-font/master/fonts.css");
 
 h1,h2,h3,h4,h5,h6,legend{
-    font-family:Arial;
+    font-family:"Computer Modern Sans", sans-serif;
     font-weight:700;
     margin-top:0;
 }
@@ -51,7 +50,7 @@ html{
 body{
     background:#edf0f2;
     color:#404040;
-    font-family:Arial;
+    font-family:"Computer Modern Sans", sans-serif;
     font-weight:normal;
     margin:0;
     min-height:100%;
@@ -911,7 +910,7 @@ footer p{
     color:#fcfcfc;
     background:#1f1d1d;
     border-top:solid 10px #343131;
-    font-family:"Lato","proxima-nova","Helvetica Neue",Arial,sans-serif;
+    font-family:"Computer Modern Sans", sans-serif;
     font-size: 90%;
     z-index:400;
     padding:12px;
@@ -1005,7 +1004,7 @@ footer p{
 
 #content .sidebar .sidebar-title{
     display:block;
-    font-family:"Roboto Slab","ff-tisa-web-pro","Georgia",Arial,sans-serif;
+    font-family:"Computer Modern Sans", sans-serif;
     font-weight:bold;
     background:#e1e4e5;
     padding:6px 12px;
@@ -1041,7 +1040,7 @@ h2.footnotes{
 .footnum, .footref{
     color: #2980b9;
     font-size: 170%;
-    font-family:"Lato","proxima-nova","Helvetica Neue",Arial,sans-serif;
+    font-family:"Computer Modern Sans", sans-serif;
 }
 
 .footnum:before, .footref:before{
@@ -1055,7 +1054,7 @@ h2.footnotes{
 .footpara {
     color: #999;
     font-size: 90%;
-    font-family:"Lato","proxima-nova","Helvetica Neue",Arial,sans-serif;
+    font-family:"Computer Modern Sans", sans-serif;
     padding-bottom: 8px;
     padding-left: 16px;
     padding-right: 16px;
@@ -1119,4 +1118,4 @@ h2.footnotes{
     /* padding: 10px 20px 10px 60px; */
     padding: 9px 12px;
     margin-bottom: 24px;
-    font-family:"Roboto Slab","ff-tisa-web-pro","Georgia",Arial,sans-serif}
+    font-family:"Computer Modern Sans", sans-serif}
