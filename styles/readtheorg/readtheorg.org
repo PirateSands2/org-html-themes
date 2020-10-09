@@ -6,7 +6,8 @@
 #+LANGUAGE:  en
 #+OPTIONS:   H:4 num:t toc:2
 
-#+SETUPFILE: https://fniessen.github.io/org-html-themes/setup/theme-readtheorg.setup
+#+SETUPFILE: https://raw.githubusercontent.com/PirateSands2/org-html-themes/master/setup/theme-readtheorg.setup
+
 
 # See http://pandoc.org/README.html for another organization of the sections
 
