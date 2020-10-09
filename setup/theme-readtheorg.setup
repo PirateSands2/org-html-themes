@@ -1,6 +1,6 @@
 # -*- mode: org; -*-
 
-#+HTML_HEAD: <link rel="stylesheet" type="text/css" href="https://raw.githubusercontent.com/PirateSands2/org-html-themes/master/styles/readtheorg/css/htmlize"/>
+#+HTML_HEAD: <link rel="stylesheet" type="text/css" href="https://raw.githubusercontent.com/PirateSands2/org-html-themes/master/styles/readtheorg/css/htmlize.css"/>
 #+HTML_HEAD: <link rel="stylesheet" type="text/css" href="https://raw.githubusercontent.com/PirateSands2/org-html-themes/master/styles/readtheorg/css/readtheorg.css"/>
 
 #+HTML_HEAD: <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.3/jquery.min.js"></script>
